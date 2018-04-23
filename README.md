@@ -4,8 +4,8 @@ A simple timer for C++.
 # How to use
 #### Print something after 2 seconds
 ```cpp
-include <iostream>
-include "timer.hpp"
+#include <iostream>
+#include "timer.hpp"
 
 int main() {
 
@@ -18,8 +18,8 @@ int main() {
 ```
 #### Print something every 2 seconds ( 5 times in total )
 ```cpp
-include <iostream>
-include "timer.hpp"
+#include <iostream>
+#include "timer.hpp"
 
 int main() {
 
